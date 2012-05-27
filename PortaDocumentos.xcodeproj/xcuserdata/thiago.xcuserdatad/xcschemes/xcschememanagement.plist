@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>PortaDocumentos LITE PT copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>PortaDocumentos copy 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>PortaDocumentos copy 4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>PortaDocumentos copy 6.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>PortaDocumentos copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PortaDocumentos-iPad copy 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>PortaDocumentos-iPad copy 3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>PortaDocumentos-iPad copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Xurupita.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>AF495ED5144F474F0097C540</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF495F17144F47520097C540</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF495F59144F47550097C540</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF586ED71458742000A2BB2E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF82BFFD141FE8DB00118065</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AFBBC942144DB52200A839FA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AFBBC989144DB5C400A839FA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AFBBC9D0144DB60700A839FA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AFBF73011423C9F4004A34F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
